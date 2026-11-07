@@ -1,4 +1,3 @@
-
 <div align="center">
 
   <h1>🏠 Glasgow Coma Scale (GCS) Analysis for California Hospitals (2024)</h1>
@@ -23,7 +22,8 @@
 
 <hr>
 
-<h2 id="objective">🎯 Objective</h2>
+<a name="objective"></a>
+<h2>🎯 Objective</h2>
 
 <p>
   This project analyzes the Glasgow Coma Scale (GCS) scores
@@ -36,7 +36,8 @@
 
 <hr>
 
-<h2 id="project-details">🛠️ Project Details</h2>
+<a name="project-details"></a>
+<h2>🛠️ Project Details</h2>
 
 <p>
   <strong>Tools:</strong> Tableau, Microsoft Excel
@@ -44,7 +45,8 @@
 
 <hr>
 
-<h2 id="dashboard">🌐 Dashboard</h2>
+<a name="dashboard"></a>
+<h2>🌐 Dashboard</h2>
 
 <p>
   <a href="https://public.tableau.com/views/GlasgowComaScaleGCSAnalysisforCaliforniaHospitals2024/Dashboard1">
@@ -54,16 +56,17 @@
 
 <hr>
 
-<h2 id="images">🖼️ Images</h2>
+<a name="images"></a>
+<h2>🖼️ Images</h2>
 
 <h3>Glasgow Coma Scale (GCS) Analysis Dashboard</h3>
 
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/Glasgow-Coma-Scale-Analysis/blob/main/Glasgow_Coma%20Scale_Analysis.png">
+      <a href="Images/Glasgow_Coma%20Scale_Analysis.png">
         <img
-          src="Glasgow_Coma%20Scale_Analysis.png"
+          src="Images/Glasgow_Coma%20Scale_Analysis.png"
           alt="Glasgow Coma Scale analysis dashboard"
           width="100%"
         />
